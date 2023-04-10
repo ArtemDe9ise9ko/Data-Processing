@@ -1,0 +1,14 @@
+John, Doe, “Lviv, Kleparivska 35, 4”, 500.0, 2022-27-01, 1234567, Water
+Mike, Wiksen, “Lviv, Kleparivska 40, 1”, 720.0, 2022-27-05, 7654321, Heat
+Nick, Potter, “Lviv, Gorodotska 120, 3”, 880.0, 2022-25-03, 3334444, Parking
+Luke Pan,, “Lviv, Gorodotska 120, 5”, 40.0, 2022-12-07, 2222111, Gas
+John, Doe, Lviv, Kleparivska 35, 4, 500.0, 2022-27-01, 1234567, Water
+Mike, Wiksen, Lviv, Kleparivska 40, 1, 720.0, 2022-27-05, 7654321, Heat
+Nick, Potter, Lviv, Gorodotska 120, 3, 880.0, 2022-25-03, 3334444, Parking
+Luke, Pan, Lviv, Gorodotska 120, 5, 40.0, 2022-12-07, 2222111, Gas
+Emily, Smith, Kyiv, Shevchenka 10, 2, 600.0, 2022-11-15, 1111222, Water
+Daniel, Johnson, Kyiv, Khreschatyk 20, 3, 800.0, 2022-10-25, 2222333, Heat
+Sophia, Lee, Kyiv, Pushkinska 5, 4, 450.0, 2022-09-30, 3333444, Parking
+William, Brown, Kharkiv, Sumskaya 15, 1, 700.0, 2022-08-12, 4444555, Gas
+Ava, Chen, Kharkiv, Constitution Square 8, 3, 550.0, 2022-07-20, 5555666, Water
+Benjamin, Kim, Kharkiv, Gogolya 25, 2, 670.0, 2022-06-05, 6666777, Heat

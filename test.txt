@@ -1,0 +1,43 @@
+John, Doe, “Lviv, Kleparivska 35, 4”, 500.0, 2022-27-01, 1234567, Water
+Mike, Wiksen, “Lviv, Kleparivska 40, 1”, 720.0, 2022-27-05, 7654321, Heat
+Nick, Potter, “Lviv, Gorodotska 120, 3”, 880.0, 2022-25-03, 3334444, Parking
+Luke, Pan, “Lviv, Gorodotska 120, 5”, 40.0, 2022-12-07, 2222111, Gas
+John, Doe, Lviv, Kleparivska 35, 4, 500.0, 2022-27-01, 1234567, Water
+Mike, Wiksen, Lviv, Kleparivska 40, 1, 720.0, 2022-27-05, 7654321, Heat
+Nick, Potter, Lviv, Gorodotska 120, 3, 880.0, 2022-25-03, 3334444, Parking
+Luke, Pan, Lviv, Gorodotska 120, 5, 40.0, 2022-12-07, 2222111, Gas
+Emily, Smith, Kyiv, Shevchenka 10, 2, 600.0, 2022-11-15, 1111222, Water
+Daniel, Johnson, Kyiv, Khreschatyk 20, 3, 800.0, 2022-10-25, 2222333, Heat
+Sophia, Lee, Kyiv, Pushkinska 5, 4, 450.0, 2022-09-30, 3333444, Parking
+William, Brown, Kharkiv, Sumskaya 15, 1, 700.0, 2022-08-12, 4444555, Gas
+Ava, Chen, Kharkiv, Constitution Square 8, 3, 550.0, 2022-07-20, 5555666, Water
+Benjamin, Kim, Kharkiv, Gogolya 25, 2, 670.0, 2022-06-05, 6666777, Heat
+John, Doe, Lviv, Kleparivska 35, 4, 500.0, 2022-27-01, 1234567, Water
+Mike, Wiksen, Kyiv, Shevchenka 40, 1, 720.0, 2022-27-05, 7654321, Heat
+Nick, Potter, Kharkiv, Sumskaya 120, 3, 880.0, 2022-25-03, 3334444, Parking
+Emma, Johnson, Odesa, Deribasivska 25, 2, 600.0, 2022-20-11, 9876543, Gas
+Oliver, Smith, Lviv, Horodotska 10, 5, 450.0, 2022-15-09, 1111111, Water
+Sophia, Anderson, Kyiv, Maidan Nezalezhnosti 1, 3, 700.0, 2022-10-12, 2222222, Heat
+Liam, Wilson, Kharkiv, Nauky Ave 20, 2, 550.0, 2022-05-07, 3333333, Parking
+Ava, Taylor, Odesa, Lanzheronivska 40, 1, 800.0, 2022-30-04, 4444444, Gas
+Noah, Martinez, Lviv, Stryiska 15, 3, 600.0, 2022-25-03, 5555555, Water
+Mia, Anderson, Kyiv, Pecherska 5, 4, 700.0, 2022-20-11, 6666666, Heat
+Lucas, Thomas, Kharkiv, Pushkinska 50, 1, 450.0, 2022-15-09, 7777777, Parking
+Isabella, Wilson, Odesa, Hretska 30, 2, 550.0, 2022-10-12, 8888888, Gas
+Sophia, Brown, Lviv, Zelena 20, 3, 600.0, 2022-05-07, 9999999, Water
+Ethan, Miller, Kyiv, Lva Tolstoho 15, 1, 700.0, 2022-30-04, 0000000, Heat
+David, Wilson, Dnipro, Dzerzhynska 40, 2, 600.0, 2022-20-11, 1111111, Water
+Sophia, Anderson, Dnipro, Artema 10, 1, 720.0, 2022-27-05, 2222222, Heat
+James, Smith, Dnipro, Haharina 25, 3, 800.0, 2022-25-03, 3333333, Parking
+Olivia, Johnson, Dnipro, Sholom-Aleykhema 15, 2, 550.0, 2022-15-09, 4444444, Gas
+Alexander, Martinez, Dnipro, Voskresenska 30, 4, 700.0, 2022-10-12, 5555555, Water
+John, Doe, Lviv, Kleparivska 35, 4, 500.0, 2022-27-01, 1234567, Water
+Mike, Wiksen, Kyiv, Kleparivska 40, 1, 720.0, 2022-27-05, 7654321, Heat
+Nick, Potter, Kharkiv, Gorodotska 120, 3, 880.0, 2022-25-03, 3334444, Parking
+Emma, Brown, Odesa, Prymorskyi Blvd, 12A, 2, 600.0, 2022-30-06, 9876543, Water
+Sophia, Anderson, Dnipro, Artema 10, 1, 720.0, 2022-27-05, 2222222, Heat
+Oliver, Lee, Kyiv, Velyka Vasylkivska 50, 3, 800.0, 2022-35-04, 6667777, Parking
+David, Wilson, Dnipro, Dzerzhynska 40, 2, 600.0, 2022-20-11, 1111111, Water
+Alex, Green, Lviv, Bandery 15, 1, 720.0, 2022-27-05, 4443333, Heat
+Sophia, Johnson, Dnipro, Karla Marksa 20, 2, 550.0, 2022-15-09, 9999999, Gas
+James, Smith, Dnipro, Haharina 25, 3, 800.0, 2022-25-03, 3333333, Parking
